@@ -7,8 +7,8 @@
 
 // function addNumbers(num1,num2){
 //const num4=50;
-// return num1+num2;
-// }
+// return num1+num2; }
+
 // const num1=20;
 // const num2=30;
 // console.log(addNumbers(num1, num2));
@@ -16,6 +16,10 @@
 //  return num1+num2+num3;}
   
 //  console.log(addThreeNumbers(20, 30,50));// Answer 100
-let text = "Hello World!";
-let length = text.length;
-console.log(text.length);
+// let text = "Hello World!";
+// let length = text.length;
+// console.log(text.length);
+
+ 
+
+ 

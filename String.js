@@ -19,7 +19,7 @@
 
 // const text="Hello world!";
 // console.log(text.slice(3,8));//starting number ,ending number space will not be count on slice
-for (let i = 10; i >= 1; i--) {
-    console.log(i);
-}
+// for (let i = 10; i >= 1; i--) {
+//     console.log(i);
+// }
 

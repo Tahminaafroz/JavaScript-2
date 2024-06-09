@@ -15,11 +15,11 @@
 // let result="value1" * 5;
 // console.log("Result",result);
 
-// let price2=125.54564;
+ //let price2=125.54564;
 // console.log(price2.toFixed(2));  
 // output: 125.54
 
-// const convertedNumber=price2.toString();
-// console.log(convertedNumber);
-// console.log(typeof convertedNumber); //output =125.54564 String
+ //const convertedNumber=price2.toString();
+//console.log(convertedNumber);
+ //console.log(typeof convertedNumber); //output =125.54564 String
 //console.log(Math.random());//each time return new value when we run every time

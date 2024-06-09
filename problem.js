@@ -1,4 +1,4 @@
-//convert aString to Uppercase with a function?
+//Q.convert a String to Uppercase with a function?
 // function convertToUpperCase(str){
 //     const convertedStr=str.toUpperCase();
 //     return convertedStr;
