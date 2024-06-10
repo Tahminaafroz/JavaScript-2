@@ -21,16 +21,15 @@
 // number.shift();//only work for first element
 // console.log(number);
 
- let number=[4,8,9,15]
-
-// // console.log(number.length);
+ let number=[4,8,9,15]         //forloop
+sum=sum+numbers(number);// // console.log(number.length);   //if there are thousand of  numbers
 // for(let i=0;i<=15;i++){
-//     console.log(number[i]);
+  console.log(number[sum]);
 // }
-for(let i=0;i<=number.length -1; i++){
-   console.log(number[i]);
-}
+// for(let i=0;i<=number.length -1; i++){
+//    console.log(number[i]);
+// }
 //  let number=[4,8,9,15,27,30]
 // for( let i=number.length -1; i>=0;i--){
-//     console.log(number[i]);
+//    console.log(number[i]);
 // }
